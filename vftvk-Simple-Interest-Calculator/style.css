@@ -1,0 +1,27 @@
+/*body styling*/
+body {
+    background-color:black;
+    font-family:arial;
+    color:rgb(248, 248, 248)
+}
+/*header 1 styling*/
+h1{
+    color:grey;
+    font-family:verdana
+}
+
+/* main div styling*/
+#maindiv
+{
+    background-color: white;
+    color:black;
+    width : 300px;
+    padding: 20px ;
+    border-radius: 25px ;
+    box-align: centre 
+}
+
+
+
+
+
